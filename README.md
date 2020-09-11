@@ -17,6 +17,8 @@ The traveler profile page contains the user profile, including hometown, miles t
 
 The has three sections one for the trip overview including dates, miles traveled and who took the trip, another for the activities that were done and one for a blog of the travelers thoughts on the trip.
 
+Link to site: https://duproject2-l-a-k-d.herokuapp.com/
+
 
 ### Built with
 
