@@ -33,11 +33,10 @@ Link to site: https://duproject2-l-a-k-d.herokuapp.com/
 
 ### Contributors:
 
-Kilea Castillo,
-Lee Hawkins,
-David Sobernheim,
-Alex Heffron
-
+- Lee Hawkins - Database, models, routing, view rendering
+- Kilea Castillo - jQuery Datepicker, styling
+- David Sobernheim - API calls
+- Alex Heffron - Styling
 
 
 
